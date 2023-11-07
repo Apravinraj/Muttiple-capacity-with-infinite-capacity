@@ -1,6 +1,6 @@
-# EXP. NO-6 Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# EXP. NO-5 Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 
-# DATE: 03.11.2023
+# DATE: 20.10.2023
 
 ## Aim :
 
